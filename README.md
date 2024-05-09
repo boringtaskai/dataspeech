@@ -27,7 +27,7 @@ You first need to clone this repository before installing requirements.
 ```sh
 git clone git@github.com:huggingface/dataspeech.git
 cd dataspeech
-pip install -r requirements.txt
+pip install -r pip_supported_requirements.txt
 ```
 
 ## Annotating datasets to fine-tune Parler-TTS
